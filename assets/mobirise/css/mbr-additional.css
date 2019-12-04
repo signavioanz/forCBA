@@ -2389,3 +2389,30 @@ section.lazy-placeholder:after {
 .cid-rJywSHiTSl .mbr-section-btn {
   color: #232323;
 }
+.cid-rJEzKVsFE4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rJEzKVsFE4 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rJEzKVsFE4 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rJEzKVsFE4 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rJEzKVsFE4 .mbr-text,
+.cid-rJEzKVsFE4 .mbr-section-btn {
+  color: #232323;
+}
+.cid-rJEzKVsFE4 H1 {
+  color: #232323;
+}
