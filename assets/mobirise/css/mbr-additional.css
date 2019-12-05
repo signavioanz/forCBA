@@ -2416,3 +2416,25 @@ section.lazy-placeholder:after {
 .cid-rJEzKVsFE4 H1 {
   color: #232323;
 }
+.cid-rJJVBP6VhN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-rJJVBP6VhN .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rJJVBP6VhN .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rJJVBP6VhN .mbr-text,
+.cid-rJJVBP6VhN .mbr-section-btn {
+  color: #232323;
+}
+.cid-rJJVBP6VhN .mbr-section-title {
+  color: #232323;
+}
